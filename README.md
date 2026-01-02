@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Security/ Cloud Computing
 - 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on Cyber Security and DevSecOps
-- 📫 How to reach me: LinkedIn and Facebook
+- 📫 How to reach me: LinkedIn 
 - 😄 Pronouns: She / her / hers
 - ⚡ Fun fact: ...
 
